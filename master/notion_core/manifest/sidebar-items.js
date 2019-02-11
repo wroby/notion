@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["_DERIVE_failure_Fail_FOR_PackageReadError",""],["_DERIVE_failure_core_fmt_Display_FOR_PackageReadError",""]],"mod":[["serial",""]],"struct":[["Manifest","A Node manifest file."],["PackageReadError",""]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["_DERIVE_failure_Fail_FOR_CliParseError",""],["_DERIVE_failure_Fail_FOR_CommandUnimplementedError",""],["_DERIVE_failure_core_fmt_Display_FOR_CliParseError",""],["_DERIVE_failure_core_fmt_Display_FOR_CommandUnimplementedError",""]],"struct":[["CliParseError",""],["CommandUnimplementedError",""]],"trait":[["DocoptExt",""],["NotionErrorExt",""]]});
